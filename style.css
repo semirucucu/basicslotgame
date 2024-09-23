@@ -1,0 +1,32 @@
+/* CSS styles */
+button {
+  margin-top: 10px;
+  background-color: white;
+  border: 1px solid black;
+  height: 70px;
+  width: 80px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.tuttu {
+  background-color: rgb(33, 186, 111);
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: 1px solid blue;
+}
+
+table {
+  padding: 15px;
+}
+
+th {
+  padding: 15px;
+  background-color: rgb(112, 139, 111);
+  width: 80px;
+}
